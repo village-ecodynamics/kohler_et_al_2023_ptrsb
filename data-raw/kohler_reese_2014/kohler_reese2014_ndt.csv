@@ -1,0 +1,195 @@
+Sample,Region,Culture_Area,Site_Name,Date_AD,Early_Maize,Eff_Maize,N_GE_5,N519,N_GT_19,P519,P519R5,Comment,DT_Early,DT_Int,e0,e15,R,Men,Women,Boys,Girls,_OBSTAT_,Crude Birth Rate
+MarshPass,KAY,Pueblo,composite,-233,-1900,600,21,2.63,18.37,0.125,0.03,Coltrain et al. 2007 Table 1,1667,-833,NA,NA, .,6,3,0,0,01101    0    0    0,0.027806757141043963
+MattyWa,HOH,Tucson,composite,-443,-2000,150,15,2,13,0.133,0.042,"Huckell 1995, Table 3.5; Donaldson & Los Ojitos",1557,-593,NA,NA, .,6,7.333,0,0.667,01101    0    0    0,0.029173484244003373
+DogLeg,SJB,Pueblo,Dog Leg,-290,-980,300,10.5,4.85,5.65,0.462,0.423,Kearns et al. 1998,690,-590,NA,NA, .,3,1.25,0,0.75,01101    0    0    0,0.08082945801127883
+CienegaHOHTucs,HOH,Tucsoncompos,compositeMabrMabry 1998:Tab,-125,-2000,150,55,13,42,0.236,0.153,Mabry 1998:Table 16.2,1875,-275,28.98,21.59, .,11,18.619,0,1.381,01101    0    0    0,0.046122403222534025
+Durango S,NSJ,Pueblo,composite    Rowen in Goodi,750,-400,500,5,0,5,0,0,Rowen in Gooding Table 24,1150,250,NA,NA, .,3,2,0,0,01101    0    0    0,0.00375
+BMEarly,KAY,Pueblo,composite    Martin et al 1,925,-1900,600,35.43,10.43,25,0.294,0.167,Martin et al 1991 Table 2-11,2825,325,25.47,25.58, .,8,17.45,0,1.55,01101    0    0    0,0.05528368043233435
+PBED,MRG,Pueblo,Pena Blanca,650,-1250,300,12.25,3.25,9,0.265,0.184,Early Devlopmental Akins n.d.,1900,350,24.07,27.4, .,1,7,0,1,01101    0    0    0,0.05073048422058225
+SJ700  SJ Pueb,SJB,Pueblocompos,compositeSan San Juan Basin,700,-980,300,44.63,10.233,34.397,0.229,0.13,San Juan Basin A.D. 600-799,1680,400,NA,NA, .,26.667,18.667,0,0,01101    0    0    0,0.04500107934493158
+SU,MOG,Cibola,SU,500,-2000,1,27,3,24,0.111,0.011,Buzon & Grauer 2002 Table 1,2500,499,NA,NA, .,12,7,0,0,01101    0    0    0,0.025391454656555637
+BMLate,KAY,Pueblo,composite    Martin et al.,1100,-1900,600,79,23,56,0.291,0.162,Martin et al. 1991 Table 2-11,3000,500,24.92,25.77, .,25.25,27.25,1.75,1.75,01101    0    0    0,0.05481501924642626
+NSJ850 NSJPueb,NSJ,Pueblocompos,compositeNortNorthern San J,850,-400,300,87,21.6,65.4,0.248,0.156,Northern San Juan A.D. 800-899,1250,550,NA,NA, .,17,29,0,0,01101    0    0    0,0.048036295046414906
+SJ850  SJ Pueb,SJB,Pueblocompos,compositeSan San Juan Basin,850,-980,300,43.333,10.085,33.248,0.233,0.136,San Juan Basin A.D. 800-899,1830,550,NA,NA, .,13.333,9.333,0,0,01101    0    0    0,0.045642287176861626
+LaPlata,SJB,Pueblo,composite,1100,-400,500,50,13,37,0.26,0.187,"Martin et al. 2001, Table 2.2",1500,600,NA,NA, .,16,18,0,0,01101    0    0    0,0.04994009110979358
+423-101,SJB,Pueblo,423-101      Herrmann et al,900,-980,300,9,1,8,0.111,0,Herrmann et al. 1993,1880,600,NA,NA, .,2,1,0,0,01101    0    0    0,0.025391454656555637
+UpPuerco,SJB,Pueblo,composite    Herrmann et al,945,-980,300,32.17,9.17,23,0.285,0.293,Herrmann et al. 1993,1905,625,NA,NA, .,7,12.45,0,0.55,01101    0    0    0,0.05387610615747035
+NSJ950 NSJPueb,NSJ,Pueblocompos,compositeNortNorthern San J,950,-400,300,20.687,3.683,17.004,0.178,0.074,Northern San Juan A.D. 900-999,1350,650,NA,NA, .,7,6,0,0,01101    0    0    0,0.03670904138803273
+SJ950  SJ Pueb,SJB,Pueblocompos,compositeSan San Juan Basin,950,-980,300,92,38.9,53.1,0.423,0.343,San Juan Basin A.D. 900-999,1930,650,NA,NA, .,27,28,0,0,01101    0    0    0,0.07500607193755099
+NSJ1050NSJPueb,NSJ,Pueblocompos,compositeNortNorthern San J,1050,-400,300,32.353,1.333,31.02,0.041,0,Northern San Juan A.D. 1000-1099,1450,750,NA,NA, .,25,28,0,0,01101    0    0    0,0.012662643830069355
+SJ1050 SJ Pueb,SJB,Pueblocompos,compositeSan San Juan Basin,1050,-980,300,141.323,40.273,101.05,0.285,0.197,San Juan Basin A.D. 1000-1099,2030,750,NA,NA, .,48,73,0,0,01101    0    0    0,0.05387610615747035
+GalazLP,MOG,Mimbres,Galaz Ruin LaAnyon & LeBlan,775,-2000,1,64.76,24.42,40.34,0.377,0.308,Anyon & LeBlanc 1984,2775,774,NA,NA, .,34,23,1,4,01101    0    0    0,0.06806107263870666
+NSJ1150,NSJ,Pueblocompos,compositeNortNorthern San J,1150,-400,300,66.343,25.539,40.804,0.385,0.311,Northern San Juan A.D. 1100-1199,1550,850,NA,NA, .,23,18,0,0,01101    0    0    0,0.0692752594339233
+SJ1150 SJ Pueb,SJB,Pueblocompos,compositeSan San Juan Basin,1150,-980,300,196.797,102.471,94.326,0.521,0.34500000000000003,San Juan Basin A.D. 1100-1199,2130,850,NA,NA, .,35,35,0,0,01101    0    0    0,0.08953897769270636
+NRG1150,NRG,Pueblocompos,compositeNortNorthern Rio G,1150,-1250,300,18.677,2.907,15.77,0.156,0.024,Northern Rio Grande A.D. 1100-1199,2400,850,NA,NA, .,4,5,0,0,01101    0    0    0,0.033054833867473724
+PBLDEC,MRG,Pueblo,Pena Blanca,1150,-1250,300,8.25,3.25,5,0.394,0.326,Late Developmental-EC Akins n.d.,2450,900,NA,NA, .,2,2,1,0,01101    0    0    0,0.07063793117432246
+PecosFL,MRG,Pueblo,Forked Light From Mobley 19,1225,-1250,300,99.713,19.168,80.545,0.197,NA,"From Mobley 1980, 1150-1300 (corrected 11/11)",2475,925,NA,NA, .,18,19,0,2,01101    0    0    0,0.03982516326161818
+NSJ1250NSJPueb,NSJ,Pueblocompos,compositeNortNorthern San J,1250,-400,300,85.02,27.472,57.548,0.323,0.237,Northern San Juan A.D. 1200-1300,1650,950,NA,NA, .,20,13,0,0,01101    0    0    0,0.05978798538973652
+SJ1250 SJ Pueb,SJB,Pueblocompos,compositeSan San Juan Basin,1250,-980,300,27.333,12.613,14.72,0.461,0.389,San Juan Basin A.D. 1200-1300,2230,950,NA,NA, .,18,27,0,0,01101    0    0    0,0.08068083056216473
+NRG1250,NRG,Pueblocompos,compositeNortNorthern Rio G,1250,-1250,300,23.307,8.707,14.6,0.374,0.047,Northern Rio Grande A.D. 1200-1300,2500,950,NA,NA, .,1,0,0,0,01101    0    0    0,0.06760502949916466
+PecosBW,MRG,Pueblo,Black/white,1337.5,-1250,300,43.749,9.204,34.545,0.21,NA,"From Mobley 1980, 1300-1375 (corrected 11/11",2587.5,1037.5,NA,NA, .,8,25,1,1,01101    0    0    0,0.04193818989815708
+PGEC,HOH,Phoenix,Pueblo GrandeSheridan in Mi,1212.5,-2000,150,250,32.54,217.46,0.13,0.135,Sheridan in Mitchell & Brunson-Hadley 2001,3212.5,1062.5,16.6,24.1, .,80.385,76.385,0.615,3.615,01101    0    0    0,0.02866204390089586
+GalazCM,MOG,Mimbres,Galaz Ruin ClAnyon & LeBlan,1075,-2000,1,540.75,161.69,379.06,0.299,0.221,Anyon & LeBlanc 1984,3075,1074,NA,NA, .,6,3,0,0,01101    0    0    0,0.05606362479584183
+GranQuE,MRG,Pueblo,Early-EM     From Hayes 198,1375.5,-1250,300,22,3,19,0.136,0.043,"From Hayes 1981, 1315-1400",2625.5,1075.5,NA,NA, .,8,8,0,0,01101    0    0    0,0.029683665576069454
+PecosG1,MRG,Pueblo,Glaze 1      From Mobley 19,1400,-1250,300,98,14.82,83.18,0.151,0.09,"From Mobley 1980, 1375-1425 (corrected 11/11)",2650,1100,NA,NA, .,30,34,0,0,01101    0    0    0,0.03221671707116654
+PecosG2,MRG,Pueblo,Glaze 2      From Mobley 19,1450,-1250,300,69.86,8.86,61,0.127,0.031,"From Mobley 1980, 1425-1475",2700,1150,NA,NA, .,19,22,0,1,01101    0    0    0,0.028149312271857515
+S_P_Mound,TON,Tonto,Sch_Pt_Mnd,1375,-2000,150,102.5,18.5,84,0.18,0.089,Ravesloot & Regan 2000; Minturn 2001:Table 2.11,3300,1150,20.38,21.78, .,33,30,3,2,01101    0    0    0,0.037038704202156325
+GranQuM,MRG,Pueblo,Middle-ML    From Hayes 198,1475,-1250,300,49.33,13,36.33,0.264,0.198,"From Hayes 1981, 1400-1550",2725,1175,NA,NA, .,13,19.333,1,2.667,01101    0    0    0,0.05057253691697483
+SanCris,MRG,Pueblo,San CristFromFrom B-A & N 2,1510,-1250,300,183.167,24.31,158.857,0.133,NA,"Using AMNH NAGPRA forms, not Stodder",2752.5,1202.5,26.8,26.8, .,51.333,65.167,0.667,2.167,01101    0    0    0,0.029173484244003373
+PecosG3,MRG,Pueblo,Glaze 3      From Mobley 19,1512.5,-1250,300,122.71,19.71,103,0.161,0.072,"From Mobley 1980,1475-1550",2762.5,1212.5,NA,NA, .,42,51,4,3,01101    0    0    0,0.03389002024800186
+PGLC,HOH,Phoenix,Pueblo GranceSheridan in Mi,1362.5,-2000,150,144,14.31,129.69,0.099,0.13,Sheridan in Mitchell & Brunson-Hadley 2001,3362.5,1212.5,14.5,22.7, .,46,50.692,0,1.154,01101    0    0    0,0.023294634453169403
+S_P_Mesa,TON,Tonto,Sch_Pt_Mesa,1375,-2000,150,61,13,48,0.213,0.126,Ravesloot & Regan 2000; Regan & Turner 1997,3400,1250,25.41,23.36, .,19,14,0,0,01101    0    0    0,0.04242375190653709
+HawiP-M,ZUN,PuebloLA37,LA37     FromFrom B-A & N 2,1300,-2000,300,30.556,8.556,22,0.28,NA,Howell 1994 replacing B-A & N 2006:343,3562.5,1262.5,NA,NA, .,1,3,0,0,01101    0    0    0,0.053092028949683276
+PointCP,MOG,Black compos,compositeFromFrom B-A & N 2,750,-2000,1,9,1,8,0.111,NA,Robinson & Sprague 1965 Circle Prairie Phase,3275,1274,NA,NA, .,4,3,0,0,01101    0    0    0,0.025391454656555637
+PointNan,MOG,Black,composite,850,NA,NA,9.57,2.57,7,0.269,NA,Robinson & Sprague 1965 Nantack Phase,NA,NA,NA,NA, .,4,2,0,0,01101    0    0    0,0.05136162505179184
+PointRe,MOG,Black,composite,1000,NA,NA,45.71,3.71,42,0.081,NA,Robinson & Sprague 1965 Reserve Phase,NA,NA,NA,NA, .,9,22,0,0,01101    0    0    0,0.02009554496424748
+PointTu,MOG,Black,composite,1150,NA,NA,182.71,43.71,139,0.239,NA,Robinson & Sprague 1965 Tularosa Phase & Minturn 2001:Table 2.11,NA,NA,21.75,NA, .,64,78,0,0,01101    0    0    0,0.046601852879796055
+PointPi,MOG,Black,composite,1250,NA,NA,9.57,2.57,7,0.269,NA,Robinson & Sprague 1965 Pinedale Phase,NA,NA,NA,NA, .,3,5,0,0,01101    0    0    0,0.05136162505179184
+PointCC,MOG,Black,composite,1450,NA,NA,1.29,0.29,1,0.225,NA,Robinson & Sprague 1965 Canyon Creek Phase,NA,NA,NA,NA, .,1,0,0,0,01101    0    0    0,0.04435864655182652
+PointPP,MOG,Black,composite,1500,NA,NA,46.57,9.57,37,0.205,NA,Robinson & Sprague 1965 Point of Pines Phase,NA,NA,NA,NA, .,18,20,0,0,01101    0    0    0,0.04112722829055891
+Paquime,MOG,ChihuaPaquim,Paquime  FromFrom B-A & N 2,1300,-2000,1,550.8,220.32,330.48,0.4,0.4,From B-A & N 2006:343,3300,1299,NA,NA, .,132.192,198.288,0,0,01101    0    0    0,0.07154448650274338
+GranQuL,MRG,Pueblo,Late         From Hayes 198,1599,-1250,300,60.33,10,50.33,0.166,0.053,"From Hayes 1981, 1611 better date",2861,1311,NA,NA, .,19,28.333,1,1.667,01101    0    0    0,0.034722377024649906
+Grassho,MOG,ForestGrassh,GrasshoppFromFrom B-A & N 2,1338,-2000,1,332.375,125.375,207,0.377,NA,Ravesloot & Regan 2000; Minturn 2001 Table,3337.5,1336.5,14.94,22.26, .,78,123,16,20,01101    0    0    0,0.06806107263870666
+Darkmol,NSJ,Pueblo,Darkmold,200,-400,500,24.01,10.71,13.3,0.446,NA,Charles et al. 2000 & e-mail 5/27/07,NA,NA,21.59,17.79,y,7,7,0,0,01101    0    0    0,0.07844714293753802
+DunaL,NSJ,Pueblo,Duna Leyenda,600,-400,300,10,1.5,8.5,0.15,NA,Neily 1982:64-103,NA,NA,NA,NA, .,5,3,0,0,01101    0    0    0,0.032048732701860067
+Stevens,NSJ,Pueblo,Stevenson,660,-400,300,5,0,5,0,NA,Swedlund 1969,NA,NA,NA,NA, .,1,4,0,0,01101    0    0    0,0.00375
+LosHerm,TON,Tonto,Los Hermanos,1250,NA,NA,79,10,69,0.127,NA,Hall et al. 2001 & Minturn 2001,NA,NA,29.15,22.14, .,32,37,0,0,01101    0    0    0,0.028149312271857515
+Hodgepo,TON,Tonto,Hodgepodge Ridge,1040,NA,NA,11,0,11,0,NA,Hall et al. 2001,NA,NA,NA,NA, .,7,3,0,0,01101    0    0    0,0.00375
+LasTor1,TON,Tonto,Las Tortugas L 1,1025,NA,NA,53.38,6.38,47,0.12,NA,Hall et al. 2001 & Minturn 2001,NA,NA,28.53,24.2, .,22,22,0,0,01101    0    0    0,0.026947723199315467
+LasTor2,TON,Tonto,Las Tortugas L 2,1075,NA,NA,31,9,22,0.29,NA,Hall et al. 2001 & Minturn 2001,NA,NA,23.49,25.43, .,6,15,0,0,01101    0    0    0,0.054658681771428075
+TresHue,TON,Tonto,Tres Huerfanos,1075,NA,NA,9,0,9,0,NA,Hall et al. 2001,NA,NA,NA,NA, .,6,3,0,0,01101    0    0    0,0.00375
+GranRow,TON,Tonto,Granary Row,1200,NA,NA,34.25,6.25,28,0.182,NA,Hall et al. 2001,NA,NA,20.48,28.24, .,13,14,0,0,01101    0    0    0,0.03736796703977861
+CerrFlo,TON,Tonto,Cerro Flo,800,NA,NA,7.25,1.25,6,0.172,NA,Hall et al. 2001 pre-Classic,NA,NA,NA,NA, .,0,0,0,0,01101    0    0    0,0.03571760259997829
+AlHerrE,MRG,Pueblo,Alfred Herrera Comp. 1,1425,NA,NA,46.4,3.73,42.67,0.08,NA,Lange 1968 & Palkovich 1980,NA,NA,NA,NA, .,30,12,0,0,01101    0    0    0,0.01991567464939655
+AlHerrL,MRG,Pueblo,Alfred Herrera Comp 2,1500,NA,NA,4,0,4,0,NA,Lange 1968,NA,NA,NA,NA, .,1,3,0,0,01101    0    0    0,0.00375
+AlHerr3,MRG,Pueblo,Alfred Herrera Comp 3,1510,NA,NA,15.2,5.2,10,0.342,NA,Lange 1968,NA,NA,NA,NA, .,2,1,0,0,01101    0    0    0,0.06271494158454803
+NBankS,MRG,Pueblo,North Bank Site,1280,NA,NA,10.26,2.6,7.66,0.253,NA,Lange 1968 (all burials assumed SF Comp),NA,NA,NA,NA, .,3,4,0,0,01101    0    0    0,0.048830739541111765
+ArroyHE,NRG,Pueblo,Arroyo Hondo Early,1330,NA,NA,56,17.67,38.33,0.316,NA,Palkovich 1980 & Minturn 2001: Tablle 2.11,NA,NA,17.12,NA, .,13,24,3,0,01101    0    0    0,0.05870493909559127
+ArroyHL,NRG,Pueblo,Arroyo Hondo Late,1400,NA,NA,6,1,5,0.167,NA,Palkovich 1980,NA,NA,NA,NA, .,2,3,0,0,01101    0    0    0,0.03488851724181192
+NambeFa,NRG,Pueblo,Nambe Falls,1000,NA,NA,2.88,0.88,2,0.306,NA,Means 1980 (Site X29SF17),NA,NA,NA,NA, .,1,1,0,0,01101    0    0    0,0.05715316076889784
+ALP630,NSJ,Pueblo,composite,630,NA,NA,80.25,24.249,56.001,0.302,NA,Stodder SMDB tDAR; Perry et al 2010,NA,NA,NA,NA, .,16,17,0.286,1,01101    0    0    0,0.056530906309602905
+ALP725,NSJ,Pueblo,composite,725,NA,NA,5,2,3,0.4,NA,Stodder SMDB tDAR; Perry et al 2010,NA,NA,NA,NA, .,2,1,0,0,01101    0    0    0,0.07154448650274338
+ALP790,NSJ,Pueblo,composite,790,NA,NA,138.25,34.915,103.335,0.253,NA,Stodder SMDB tDAR,NA,NA,NA,NA, .,20,34,0,3.695,01101    0    0    0,0.048830739541111765
+KaneCnt,VIR,Pueblo,composite,230,NA,NA,30.25,6.14,24.11,0.203,NA,Edgar 1994,NA,NA,NA,NA, .,8,6,0,0,01101    0    0    0,0.040802240961429356
+LasCap2,HOH,Phoenix,Las Capas,-850,NA,NA,2.7,0.7,2,0.259,NA,"McClelland in Diehl 2005: Mabry excav, Vint dates PC",NA,NA,NA,NA, .,1,1,0,0,01101    0    0    0,0.04978181411391858
+LostCity,FRM,Fremont,Main Ridge,1075,NA,NA,32,11,21,0.344,NA,"Lyneis, Margaret 1992 plus e-mail correspondence",NA,NA,NA,NA, .,5,8,0,0,01101    0    0    0,0.063021992395677
+WindE,MOG,Mogollon,Wind River,740,NA,NA,5.5,0.5,5,0.091,NA,"Woosley & McIntyre 1996, early, securely dated",NA,NA,NA,NA, .,3,0,0,0,01101    0    0    0,0.021881427122824256
+WindM,MOG,Mogollon,Wind River,920,NA,NA,6,0,6,0,NA,"Woosely & McIntyre 1996, middle, securely dated",NA,NA,NA,NA, .,2,0,0,0,01101    0    0    0,0.00375
+WindL,MOG,Mogollon,Wind River,1150,NA,NA,2.67,0.67,2,0.251,NA,"Woosley & McIntyre 1996, late, securely da",NA,NA,NA,NA, .,2,0,0,0,01101    0    0    0,0.048513169500167555
+Houghton,HOH,Tucson,BB:13:398,325,NA,NA,7,2,5,0.286,NA,"Hoffman & Homburg 1998, Agua Caliente Phase",NA,NA,NA,NA, .,2,1,0,0,01101    0    0    0,0.05403274047435026
+Valentine,NSJ,Pueblo,Valentine,310,NA,NA,1,0,1,0,NA,"Eddy 1961, date from Charles et al. 2006:221",NA,NA,NA,NA, .,0,0,0,0,01101    0    0    0,0.00375
+CaveDP,VIR,Pueblo,Cave Du Pont,217,NA,NA,5,0,5,0,NA,"Nusbaum 1922, date from Stallings 1941",NA,NA,NA,NA, .,0,0,0,0,01101    0    0    0,0.00375
+NANPH,MOG,Mogollon,NAN Ranch,600,NA,NA,2,0,2,0,NA,"Shafer 2003, Pithouse",NA,NA,NA,NA, .,1,1,0,0,01101    0    0    0,0.00375
+NAN3C,MOG,Mogollon,NAN Ranch,875,NA,NA,2,0,2,0,NA,"Shafer 2003, 3-Circle",NA,NA,NA,NA, .,0,2,0,0,01101    0    0    0,0.00375
+CampCem,KAY,Pueblo,Camp Cemetery,1180,NA,NA,4,0,4,0,NA,Coltrain et al. 2007 Table 1 & Kidder & Guernsey 1919,NA,NA,NA,NA, .,2,1,0,0,01101    0    0    0,0.00375
+GSLWet1,FRM,Fremont,Great Salt Lake,550,NA,NA,7,2.333,4.667,0.333,NA,Coltrain & Leavitt 2002,NA,NA,NA,NA, .,2,0.667,0,0.333,01101    0    0    0,0.061330765661974956
+GSLWet2,FRM,Fremont,Great Salt,750,NA,NA,4,1,3,0.25,NA,Coltrain & Leavitt 2002,NA,NA,NA,NA, .,1,0,0,0,01101    0    0    0,0.048354280908120856
+GSLWet3,FRM,Fremont,Great Salt,850,NA,NA,7,1,6,0.143,NA,Coltrain & Leavitt 2002,NA,NA,NA,NA, .,1,1,0,0,01101    0    0    0,0.030869362790968198
+GSLWet4,FRM,Fremont,Great Salt,950,NA,NA,7,2,5,0.286,NA,Coltrain & Leavitt 2002,NA,NA,NA,NA, .,0,4,0,0,01101    0    0    0,0.05403274047435026
+GSLWet5,FRM,Fremont,Great Salt,1050,NA,NA,12,3.067,8.933,0.256,NA,Coltrain & Leavitt 2002,NA,NA,NA,NA, .,5.733,2,1.267,0,01101    0    0    0,0.04930658127156434
+GSLWet6,FRM,Fremont,Great Salt,1200,NA,NA,14,5.333,8.667,0.381,NA,Coltrain & Leavitt 2002,NA,NA,NA,NA, .,3,2.667,0,0.333,01101    0    0    0,0.06866851423737799
+LasCap1,HOH,Phoenix,Las Capas,-1075,NA,NA,11.5,1,10.5,0.087,NA,Burials forms from J. Vint 10/11 (PC),NA,NA,NA,NA, .,3,5,0,0,01101    0    0    0,0.02116978690446806
+Clearwater,HOH,Phoenix,Clearwatewr,-590,NA,NA,15.778,1.778,14,0.113,NA,Watson SMDB AZ BB:13:16 & Diehl 1997,NA,NA,NA,NA, .,4,4,0,0,01101    0    0    0,0.02573844672531464
+CoffeeC,HOH,Phoenix,Coffee Camp,100,NA,NA,5,1,4,0.2,NA,Watson SMDB AZ AA:6:19 & Huckell 1995,NA,NA,NA,NA, .,1,0,0,1,01101    0    0    0,0.040314102460428825
+Donaldson,HOH,Phoenix,Donaldson,400,NA,NA,5,0,5,0,NA,Watson SMDB AZ EE:2:30 & Huckell 1995,NA,NA,NA,NA, .,3,2,0,0,01101    0    0    0,0.00375
+LaPlay1,HOH,Sonora,La Playa,-1000,NA,NA,162.667,17.667,145,0.109,NA,"Watson SMDB SON F:10:3, San Pedro Phase materials only",NA,NA,NA,NA, .,65,65,5,2,01101    0    0    0,0.02504377877042769
+LaPlay2,HOH,Sonora,La Playa,-125,NA,NA,102.222,11.222,91,0.11,NA,"Watson SMDB SON F:10:3, Cienega Phase materials only",NA,NA,NA,NA, .,32,27,5,1,01101    0    0    0,0.025217703048982656
+LosOjitos,HOH,Phoenix,Los Ojitos,500,NA,NA,24.333,11,13.333,0.452,NA,Watson SMDB AZ EE:2:126,NA,NA,NA,NA, .,4,4.333,1,1.667,01101    0    0    0,0.07934158789724774
+WDCave7,NSJ,Pueblo,Cave 7,30,NA,NA,24.333,11,13.333,0.452,NA,Coltrain et al spreadsheet; Hurst and Turner 1992,NA,NA,NA,NA, .,4,4.333,2,1.667,01101    0    0    0,0.07934158789724774
+SAMission,HOH,Tucson,San Agustin,-385,NA,NA,12.778,1.778,11,0.139,NA,McClelland 2008 (in Am Ant but missing from DB),NA,NA,NA,NA, .,3,2,0,0,01101    0    0    0,0.030192618671746115
+BonanzaD,VIR,Pueblo,42Ka1076,1050,NA,NA,1.5,0.5,1,0.333,NA,Aikens 1965 SW Utah Bonanza Dune Glen Canyon,NA,NA,NA,NA, .,0,0,0,0,01101    0    0    0,0.061330765661974956
+HawiM,ZUN,Pueblo,LA37,1470,NA,NA,190.444,71.444,119,0.375,NA,Howell 1995 Leadership pp. 174-185,NA,NA,NA,NA, .,12,35,0,0,01101    0    0    0,0.06775708813286208
+HawiH,ZUN,Pueblo,LA37,1599,NA,NA,48.111,20.111,28,0.418,NA,Howell 1995 Leadership pp. 174-185 [1610 better date],NA,NA,NA,NA, .,6,14,0,0,01101    0    0    0,0.07425534144583261
+LosPinos,NSJ,Pueblo,2 sites,200,NA,NA,2.333,1.333,1,0.571,NA,"Eddy 1966, sites not included in other composite",NA,NA,NA,NA, .,1,0,0.667,0,01101    0    0    0,0.09683538642598993
+PotterP,KAY,Pueblo,Pottery Pueblo,1270,NA,NA,5.5,1,4.5,0.182,NA,Stein 1984: Table 156 (using ages agreed by 2 of 3),NA,NA,NA,NA, .,4,0,0,1,01101    0    0    0,0.03736796703977861
+MesaHouse,VIR,Pueblo,Mesa House,1175,NA,NA,4,2,2,0.5,NA,"Hayden 1930 Moapa Valley, S. Nevada",NA,NA,NA,NA, .,0,0,0,0,01101    0    0    0,0.08645199776578104
+Neskahi,KAY,Pueblo,Neskahi Village,1135,NA,NA,16,2,14,0.125,NA,Hobler 1974 Late Survival of Pithouse...,NA,NA,NA,NA, .,5,9,0,0,01101    0    0    0,0.027806757141043963
+Coombs,FRM,Pueblo,Coombs Site,1175,NA,NA,7,2,5,0.286,NA,Turner in Lister & Lister 1961 Glen Canyon,NA,NA,NA,NA, .,3,2,0,2,01101    0    0    0,0.05403274047435026
+RB568,KAY,Pueblo,NA11296,1225,NA,NA,49.118,12.118,37,0.247,NA,Berry 1983 in Honoring the Dead,NA,NA,NA,NA, .,7,25,0,2,01101    0    0    0,0.04787719715514993
+StaffBas,MOG,Mogollon,BV-CR&Fischer,1375,NA,NA,5,1,4,0.2,NA,Woodson et al 1999 in Whittlesey Buena Vista-Curtis,NA,NA,NA,NA, .,0,0,0,0,01101    0    0    0,0.040314102460428825
+MattoC,MOG,Mogollon,Mattocks-MF,1070,NA,NA,52,22.333,29.667,0.429,NA,Gilman SMDB Mattocks-MF Classic,NA,NA,NA,NA, .,4,3,0,1,01101    0    0    0,0.07590567061227083
+MattoLP,MOG,Mogollon,Mattocks-LP,775,NA,NA,5,0,5,0,NA,Gilman SMDB Mattocks-Late Pithouse,NA,NA,NA,NA, .,0,1,0,0,01101    0    0    0,0.00375
+OldWalpi,KAY,Pueblo,Old Walpi,1550,NA,NA,74.66,12.66,62,0.17,NA,Dennis John Ryan 1977:8 [Date ECA PC 12/11),NA,NA,NA,NA, .,63,65,0,0,01101    0    0    0,0.03538628877761053
+FallsCr,NSJ,Pueblo,Falls Creek,200,NA,NA,32.88,13.88,19,0.422,NA,"Peabody Museum, Harvard; dates Potter 2011 (R)",NA,NA,17.245,21.844,y,4.714,10,2.286,2,01101    0    0    0,0.07485600376294883
+Caldwell,FRM,Pueblo,Caldwell,1125,NA,NA,8,0,8,0,NA,Ambler diss 1966 & UUAP 84 (1966) Uintah Fremont,NA,NA,NA,NA, .,3,5,0,0,01101    0    0    0,0.00375
+Warren,FRM,Fremont,Warren Mounds,900,NA,NA,7,1,6,0.143,NA,Enger & Blair AmAnt 1947; date from Coltrain,NA,NA,NA,NA, .,3,3,0,0,01101    0    0    0,0.030869362790968198
+Bernheimer,NSJ,Pueblo,Bernheimer A,150,NA,NA,3,1,2,0.333,NA,Sharrock et al 1963 GC#18 date est Geib 1996 WDBMII,NA,NA,NA,NA, .,0,2,0,0,01101    0    0    0,0.061330765661974956
+Three-C,SJB,Pueblo,Three-C Site,900,NA,NA,12,1,11,0.083,NA,Gordon Vivian & Akins Chaco Center #9,NA,NA,NA,NA, .,0,0,0,0,01101    0    0    0,0.020454561467937424
+Lizard,SIN,Mogollon,Lizard Man,1170,NA,NA,10.66,3.66,7,0.343,NA,Kamp & Whittaker 1999,NA,NA,NA,NA, .,4,3,2,2,01101    0    0    0,0.06286849144231475
+Median,FRM,Fremont,Median Village,930,NA,NA,2,0,2,0,NA,Marwitt 1973,NA,NA,NA,NA, .,1,1,0,0,01101    0    0    0,0.00375
+MeddlerPt,TON,Tonto,Meddler Pt,1175,NA,NA,41.5,5.5,36,0.133,NA,Elson & Clark 1995 RCD inhumations Meddler Pt,NA,NA,NA,NA, .,2,7,0,0,01101    0    0    0,0.029173484244003373
+BooneMoore,TON,Tonto,composite,1175,NA,NA,37,1,36,0.027,NA,Elson & Clark 1995 RCD Boone Moore inhuma,NA,NA,NA,NA, .,4,1,0,0,01101    0    0    0,0.009893394692892316
+LaCiuGB,HOH,Phoenix,La Ciudad GB,775,NA,NA,17,4,13,0.235,NA,McGuire 1992 inhumations + cremations Gila Butte,NA,NA,NA,NA, .,6,1,1,0,01101    0    0    0,0.04596243904887838
+LaCiuSC,HOH,Phoenix,La Ciudad,913,NA,NA,15,3,12,0.2,NA,McGuire 1992 inhumations + cremations Santa Cruz,NA,NA,NA,NA, .,1,2,0,0,01101    0    0    0,0.040314102460428825
+LaCiuSa,HOH,Phoenix,La Ciudad,1050,NA,NA,40.5,9.5,31,0.235,NA,McGuire 1992 inhumations + cremations Sacaton,NA,NA,NA,NA, .,11,0,0,0,01101    0    0    0,0.04596243904887838
+ERG_Soho,HOH,Phoenix,Escalante,1250,NA,NA,6,0,6,0,NA,Purves in Doyel 1975 Escalante Ruin Group,NA,NA,NA,NA, .,2,1,0,0,01101    0    0    0,0.00375
+ERG_Civ,HOH,Phoenix,Escalante,1375,NA,NA,13,8,5,0.615,NA,Purves in Doyel 1975 Escalante Ruin Group,NA,NA,NA,NA, .,5,0,2,0,01101    0    0    0,0.1031984639525313
+LasColinas,HOH,Phoenix,Las Colinas,1375,NA,NA,16,6,10,0.375,NA,Harrington in Hammack & Sullivan 1981,NA,NA,NA,NA, .,4,7,0,0,01101    0    0    0,0.06775708813286208
+ElPolvoron,HOH,Phoenix,El Polvoron,1400,NA,NA,2,0,2,0,NA,Teague Table II.5.1 in Teague & Crown 1984,NA,NA,NA,NA, .,0,2,0,0,01101    0    0    0,0.00375
+SGAPreCl,HOH,Phoenix,7 sites,975,NA,NA,33,23,10,0.697,NA,"Cash, Frog, Jones, Siphon, Junk, Sag, Dust",NA,NA,NA,NA, .,6,4,0,0,01101    0    0    0,0.11492742823463162
+Tur_Crk,MOG,Mogollon,Turkey Creek,1200,NA,NA,129,19,110,0.147,NA,D R Berry Disease & Climatological 1983,NA,NA,NA,NA, .,79,63,0,0,01101    0    0    0,0.03154404150239591
+UMUILPE,NSJ,Pueblo,composite,1075,NA,NA,28.5,6.5,22,0.228,NA,"Lambert in Billman 1999, Table 6.1",NA,NA,NA,NA, .,11,11,0,1,01101    0    0    0,0.04484058691607305
+UMUILPL,NSJ,Pueblo,composite,1150,NA,NA,10,6,4,0.6,NA,"Lambert in Billman 1999, Table 6.1",NA,NA,NA,NA, .,1,4,0,0,01101    0    0    0,0.1010350045815487
+423-124,SJB,Pueblo,Ram Mesa,1120,NA,NA,14.67,4.67,10,0.318,NA,Herrmann in Herrmann et al 1993,NA,NA,NA,NA, .,5,4,0,0,01101    0    0    0,0.059014645910812805
+5LP326,NSJ,Pueblo,Tamarron Site,300,NA,NA,2,0,2,0,NA,Reed & Kainer SW Lore 1978,NA,NA,NA,NA, .,1,1,0,0,01101    0    0    0,0.00375
+Piper,SIN,Sinagua,NA4266,1095,NA,NA,18.88,3.88,15,0.206,NA,Bliss in Wendorf et al 1956,NA,NA,NA,NA, .,6,3,0,0,01101    0    0    0,0.04128959188083291
+Nalakihu,SIN,Sinagua,NA358,1183,NA,NA,3,1,2,0.333,NA,"King, Dale S., 1949, dates from TRB 3(2)",NA,NA,NA,NA, .,2,0,0,0,01101    0    0    0,0.061330765661974956
+Sand_Dune,KAY,Pueblo,NA7523,650,NA,NA,2,1,1,0.5,NA,"Lindsay, Alexander J., Jr., et al 1968",NA,NA,NA,NA, .,1,0,0,0,01101    0    0    0,0.08645199776578104
+Tuzigoot,SIN,Sinagua,Tuzigoot,1350,NA,NA,306,121.14,184.86,0.396,NA,"Anderson, Keith M., 1992, Table 7",NA,NA,NA,NA, .,55,34,0,0,01101    0    0    0,0.07094028277179004
+Win_Ridge,SIN,Sinagua,Winona &,1175,NA,NA,31,15,16,0.484,NA,"McGregor, John C., 1942, Winona & Ridge",NA,NA,NA,NA, .,12,14,0,1,01101    0    0    0,0.08409051592969814
+Kechipawan,ZUN,Pueblo,Kechipawan,1470,NA,NA,144.5,40.5,104,0.28,NA,Kintigh in Mills 2000 & PC 3/5/12,NA,NA,NA,NA, .,17,33,0,4,01101    0    0    0,0.053092028949683276
+Grewe,HOH,Phoenix,AA:2:2,850,NA,NA,97.167,20.167,77,0.208,NA,Mintrum & Craig 2001,NA,NA,NA,NA, .,4,7,0,0,01101    0    0    0,0.041614061242775155
+Horvath,HOH,Phoenix,U:4:115,1250,NA,NA,8,1,7,0.125,NA,Mintrum & Craig 2001,NA,NA,NA,NA, .,1,0,0,0,01101    0    0    0,0.027806757141043963
+Palo_Verde,HOH,Phoenix,T:8:68,1000,NA,NA,64.667,16.667,48,0.258,NA,Hackbarth & Marshall 2007,NA,NA,NA,NA, .,11,3,0,0,01101    0    0    0,0.04962347033411291
+SCFAP,HOH,Phoenix,3 sites,1325,NA,NA,51,10,41,0.196,NA,"Yeats (1993), Kaler (1993), Hackbarth (199)",NA,NA,NA,NA, .,4,13,0,0,01101    0    0    0,0.0396620032684791
+Elden,SIN,Sinagua,Elden Pueb,1210,NA,NA,68,15.4,52.6,0.226,NA,Rebecca Hill ASU MA thesis 1998:21,NA,NA,NA,NA, .,21.8,29.2,3.2,6.8,01101    0    0    0,0.04451937089728723
+Taos_Val,NRG,Pueblo,Vald & Ta,1162.5,NA,NA,66,17,49,0.258,NA,Whitley SMU diss 2009:153 2 sites,NA,NA,22.95,14.79, .,28,36,0,0,01101    0    0    0,0.04962347033411291
+Pot_Creek,NRG,Pueblo,Pot Creek,1275,NA,NA,39,8,31,0.205,NA,Whitley SMU diss 2009:153 just Pot Creek Pueblo,NA,NA,24.47,13.97, .,0,7,0,2,01101    0    0    0,0.04112722829055891
+U:13:9,HOH,Phoenix,Area B,1200,NA,NA,9,7,2,0.778,NA,Alfred Johnson Am Antiq 1964,NA,NA,NA,NA, .,0,0,0,0,01101    0    0    0,0.12636585339797682
+Snaketown,HOH,Phoenix,U:13:1,1000,NA,NA,68.91,65.75,3.16,0.954,NA,Bennett 1964 & Birkby 1964 & Haury 1937,NA,NA,NA,NA, .,12.25,10,1.75,0,01101    0    0    0,0.15079097650009804
+Tijer_E,MRG,Pueblo,Tijeras,1330,NA,NA,22,1,21,0.045,NA,"Williams, H. S., 2005 MA Table 4.5",NA,NA,NA,NA, .,12,9,0,0,01101    0    0    0,0.013433179296337057
+Tijer_L,MRG,Pueblo,Tijeras,1410,NA,NA,12,1,11,0.083,NA,"Williams, H. S., 2005 MA Table 4.5",NA,NA,NA,NA, .,4,7,0,0,01101    0    0    0,0.020454561467937424
+Hotts_Hawk,HOH,Phoenix,AA:6:31,1400,NA,NA,4,1,3,0.25,NA,Yeatts 1993 in Hackbarth et al. 1993,NA,NA,NA,NA, .,NA,NA,NA,NA,01101    0    0    0,0.048354280908120856
+Rect&Gec,HOH,Phoenix,2 sites,1250,NA,NA,47,9,38,0.19,NA,Hackbarth 1993 in Hackbarth et al 1993,NA,NA,NA,NA, .,NA,NA,NA,NA,01101    0    0    0,0.0386811144296562
+Sundown,SIN,Prescott,NA16385,1150,NA,NA,20,10,10,0.5,NA,Merbs in Barth et al 1999,NA,NA,NA,NA, .,5,5,0,0,01101    0    0    0,0.08645199776578104
+N:4:110,SIN,S Sinagua,Grey Fox Ridge,1000,NA,NA,22,1,21,0.045,NA,Spurr in Deats et al 2011,NA,NA,NA,NA, .,6,3,0,0,01101    0    0    0,0.013433179296337057
+Paa-ko,MRG,Galisteo,Paa-ko,1375,NA,NA,86.105,30.105,56,0.35,NA,"Tyson, Shannon MA thesis 1992",NA,NA,NA,NA, .,17,6,0,0,01101    0    0    0,0.0639419798860145
+LA2506,SJB,Pueblo,LA2506,560,NA,NA,4,1.667,2.333,0.417,NA,Kearns 1996 in Flores & Kearns Vol X S Chuska,NA,NA,NA,NA, .,1,1.333,0,0.667,01101    0    0    0,0.07410507794599908
+BMIII,SJB,Pueblo,EPNG Comp,610,NA,NA,7,1,6,0.143,NA,LA2507+11610+80422+80425 Kearns 1996 S Chuska,NA,NA,NA,NA, .,1,3,0,0,01101    0    0    0,0.030869362790968198
+LBMIII,SJB,Pueblo,EPNG Comp,700,NA,NA,11,4.5,6.5,0.409,NA,LA2501+80407+80417 Kearns 1996 S Chuska,NA,NA,NA,NA, .,1,4.5,0,1.5,01101    0    0    0,0.07290154350835998
+PIISCHU,SJB,Pueblo,EPNG Comp,1060,NA,NA,14,2.733,11.267,0.195,NA,LA80377+80440 Kearns 1996 S Chuska,NA,NA,NA,NA, .,2,0,0,0,01101    0    0    0,0.0394987522961963
+LA80934,SJB,Pueblo,LA80934,1000,NA,NA,8,1.2,6.8,0.15,NA,Kearns 1996 in Flores & Kearns Vol X S Chuska,NA,NA,NA,NA, .,5,2.2,0,0.8,01101    0    0    0,0.032048732701860067
+FinchCE,HOH,Phoenix,Finch Camp,1,NA,NA,8,1,7,0.125,NA,Lincoln-Babb 2012 in Wegener et al Vol 4,NA,NA,NA,NA, .,5,2,0,0,01101    0    0    0,0.027806757141043963
+FinchCL,HOH,Phoenix,Finch Camp,250,NA,NA,3,0,3,0,NA,Lincoln-Babb et al. in Wegener et al. Vol 4,NA,NA,NA,NA, .,1,2,0,0,01101    0    0    0,0.00375
+Woodchuck,KAY,Pueblo,Woodchuck,-50,NA,NA,13,2,11,0.154,NA,Lockett & Hargrave 1953 MNA Bulletin 26 Tsegi,NA,NA,NA,NA, .,4,6,0,1,01101    0    0    0,0.03271994467380899
+RB_PI,NSJ,Pueblo,Ridges Basin,790,NA,NA,201,NA,NA,NA,NA,"Perry, Stodder, & Bolong 2010:73",NA,NA,22.13,22.59, .,NA,NA,NA,NA,01101    0    0    0,NA
+BM_Comp,KAY,Pueblo,Black Mesa,975,NA,NA,165,NA,NA,NA,NA,Martin et al. 1991:50,NA,NA,25.14,25.83, .,NA,NA,NA,NA,01101    0    0    0,NA
+Totah_Comp,SJB,Pueblo,Totah Composite,1150,NA,NA,50,NA,NA,NA,NA,"Martin et al. 2001:62, 64",NA,NA,24.5,19.8, .,NA,NA,NA,NA,01101    0    0    0,NA
+NAN_Ranch,MOG,Mogollon,NAN Ranch,1045,NA,NA,121,NA,NA,NA,NA,Shafer 2003:164 in Perry et al. 2010 Table 4.4,NA,NA,18.19,22.46, .,NA,NA,NA,NA,01101    0    0    0,NA
+Turkey_Creek,MOG,Mogollon,Turkey Creek,1200,NA,NA,129,NA,NA,NA,NA,Berry 1983: Table 66,NA,NA,19.6,NA, .,79,63,0,0,01101    0    0    0,NA
+P_of_Pines,MOG,Mogollon,Point of Pines,1340,NA,NA,304.42,NA,NA,NA,NA,Bennett 1973; Berry 1983,NA,NA,21,NA, .,NA,NA,NA,NA,01101    0    0    0,NA
+Taos_Valley,NRG,Pueblo,Valdez & Talps Phase,1200,NA,NA,82,NA,NA,NA,NA,Whitely 2009,NA,NA,23.06,18.45, .,NA,NA,NA,NA,01101    0    0    0,NA
+Arroyo_H,MRG,Pueblo,Arroyo Hondo,1360,NA,NA,62,NA,NA,NA,NA,Palkovich 1980:33; Perry et al. 2010 Table 4.4,NA,NA,16.23,18.99, .,NA,NA,NA,NA,01101    0    0    0,NA
+San_Cristobal,MRG,Pueblo,San Cristobal,1525,NA,NA,159,NA,NA,NA,NA,"Stodder 1990 & NAGPRA forms, AMNH",NA,NA,18.65,18.23, .,NA,NA,NA,NA,01101    0    0    0,NA
+Hawikku,SJB,Pueblo,Hawikku,1540,NA,NA,142,NA,NA,NA,NA,Stodder 1990,NA,NA,17.09,16.01, .,NA,NA,NA,NA,01101    0    0    0,NA
+RPMS_RP,TON,Tonto,2 sites,1300,NA,NA,146,NA,NA,NA,NA,U:8:24 & U:8:450;Ravesloot & Regan 2000,NA,NA,25.39,23.38, .,NA,NA,NA,NA,01101    0    0    0,NA
+RPMS_GP,TON,Tonto,U:8:24,1400,NA,NA,139,NA,NA,NA,NA,Ravesloot & Regan 2000: Table 3.5,NA,NA,17.28,26.03, .,NA,NA,NA,NA,01101    0    0    0,NA
+CasaBuena,HOH,Phoenix,Casa Buena,1250,NA,NA,47.75,5.75,42,0.12,NA,T. Michael Fink 1989 Table 15.7 in Mitchell,NA,NA,30.73,23.09,,12,22,0,0,01101    0    0    0,0.026947723199315467
+GrandCanal,HOH,Phoenix,AZT:12:16,1250,NA,NA,99.81,8.1365,91.6705,0.082,NA,DR Michell 1989:637,NA,NA,33.52,20.92, .,44.4,40.25,0.6,1.75,01101    0    0    0,0.020275172811101173
+MV1080,NSJ,Pueblo,composite,1080,NA,NA,40.21,11.75,28.46,0.292,NA,2 Raven + MV866 + Big Juniper Martin PC,NA,NA,27.299,19.782, .,6.333,13,1.667,0,01101    0    0    0,0.054971298033240135
+MV1260,NSJ,Pueblo,composite,1260,NA,NA,71.07,21.21,49.86,0.298,NA,Badger + Mug + Long Martin PC 9-24-12,NA,NA,19.078,19.205, .,26,12.333,0,0.667,01101    0    0    0,0.055907750673622525
+NANTRAN,MOG,Mogollon,NAN Transitional,955,NA,NA,24,3,21,0.125,NA,Shafer 2003 Table 8.1,NA,NA,NA,NA,,6,7,0,0,01101    0    0    0,0.027806757141043963
+NANCLA,MOG,Mogollon,NAN Classic,1075,NA,NA,93,19,74,0.204,NA,Shafer 2003 Table 8.1,NA,NA,NA,NA,,30,29,3,2,01101    0    0    0,0.04096477814102441
+LasCapas,HOH,Phoenix,Las Capas,-900,NA,NA,31.04,NA,NA,NA,NA,Vint Forms + McClelland,NA,NA,23.844,20.666,,NA,NA,NA,NA,01101    0    0    0,NA
+ALPComp,NSJ,Pueblo,Animas La Plata,790,NA,NA,166.5,NA,NA,NA,NA,"Perry, Stodder, and Bolong 2010: Table 4.4",NA,NA,22.13,22.59,,NA,NA,NA,NA,01101    0    0    0,NA
+CarterRanch,MOG,Hay Hollow,Carter Ramch,1165,NA,NA,30,2,28,0.067,NA,Danforth et al. Am Antiq 1994 Table 1,NA,NA,28.729,20.874,,13,12,0,1,01101    0    0    0,0.017553630602872988
+Houck,SJB,Pueblo,4 sites,1150,NA,NA,91,24,67,0.264,NA,"Berry 1983: Tables 4 & 66. Puerco area, BMII-PIII",NA,NA,19.6,NA,,36,26,6,10,01101    0    0    0,0.05057253691697483
+Howiri,NRG,Chama,Howiri,1410,NA,NA,13,6,7,0.462,NA,Fallon & Wening 1987 (burials + miscellaneous),NA,NA,NA,NA,,0,1,0,0,01101    0    0    0,0.08082945801127883
+LA1051,NRG,Santa,Ogapoge,1350,NA,NA,125,26,99,0.208,NA,Akins Table 10.51 in Lentz 2011 Arch Notes 4r10,NA,NA,25.28,20.66,,46.684,52.526,4.316,10.474,01101    0    0    0,0.041614061242775155
+Ton1200,TON,Tonto,3 sites,1200,NA,NA,6,1.375,4.625,0.229,NA,"Hall et al 2001:PricSag, CerFlo, Vist d Pu",NA,NA,NA,NA,,1,3,0,0,01101    0    0    0,0.04500107934493158
+PenBlaL,NRG,Pueblo,LA 6169,1050,NA,NA,2,1.4,0.6,0.7,NA,Akins (2013),NA,NA,NA,NA,,0.6,0,0.4,0,01101    0    0    0,0.1153535699870411
+PenBlaE,NRG,Pueblo,3 sites,700,NA,NA,8,0.4,7.6,0.05,NA,"Akins (2013): LA 265, 6169, 115862",NA,NA,NA,NA,,0,7.6,0,0.4,,0.014385942984859007
+NambeED,NRG,Pueblo,Nambe,700,NA,NA,6,2.4,3.6,0.4,NA,"Akins (2013): LA 103919, Early Development",NA,NA,NA,NA,,1,2.6,0,0.4,,0.07154448650274338
+PojTesL,NRG,Pueblo,Pojo/Tesu,1050,NA,NA,14,5.6,8.4,0.4,NA,"Akins (2013): Pojoaque/Tesuque, Late Devel",NA,NA,NA,NA,,5,3.4,1,1.6,,0.07154448650274338
+GalisLD,MRG,Pueblo,GalisteoB,1200,NA,NA,29,3.4,25.6,0.117,NA,"Akins (2013): Galist Bas, Late Dev/Ear Coa",NA,NA,NA,NA,,11.2,14.4,0.8,1.6,,0.026430432574149648
+BaboVil,HOH,Phoeni,Babocamar,1375,NA,NA,95,22,73,0.232,NA,"DiPeso (1974;1948) AZ EE:7:1, cremations",NA,NA,NA,NA,,0,0,0,0,,0.0454820987698506
