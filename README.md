@@ -1,5 +1,6 @@
 # kohler_et_al_2023_ptrsb
 
+[![DOI](https://zenodo.org/badge/592406973.svg)](https://zenodo.org/badge/latestdoi/592406973)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/village-ecodynamics/kohler_et_al_2023_ptrsb/master?urlpath=rstudio)
 
 This repository contains the data and code for our paper:
